@@ -9,6 +9,7 @@ Weekly three.js lab exercises.
 | [week3](week3) | Solar system: scene-graph hierarchy (Sun, Earth + Moon, Mars + Phobos) |
 | [week4](week4) | Robotic arm: hierarchical transforms, controlled with Q/A, W/S, E/D |
 | [week5](week5) | Custom BufferGeometry (indexed vs. non-indexed, press F) and loading a GLB model |
+| [week6](week6) | Perspective vs. orthographic camera with a PLY model at three depths (press Space to switch) |
 
 ## How to run
 
