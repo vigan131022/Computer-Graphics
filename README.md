@@ -10,6 +10,7 @@ Weekly three.js lab exercises.
 | [week4](week4) | Robotic arm: hierarchical transforms, controlled with Q/A, W/S, E/D |
 | [week5](week5) | Custom BufferGeometry (indexed vs. non-indexed, press F) and loading a GLB model |
 | [week6](week6) | Perspective vs. orthographic camera with a PLY model at three depths (press Space to switch) |
+| [week7](week7) | Raycasting: click to select and drag different shapes over the floor; lil-gui hover toggle, scale slider, background color and reset (position + scale) |
 
 ## How to run
 
